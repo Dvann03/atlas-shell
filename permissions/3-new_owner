@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod +x hello betty
+cmod su hello betty
