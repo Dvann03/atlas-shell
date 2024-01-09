@@ -1,1 +1,2 @@
 #!/bin/bash
+cmod +x hello betty
