@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod sudo chown hello:Betty
+chmod su chown hello:Betty
