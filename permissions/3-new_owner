@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod sudo chown betty hello
+cmod su chown betty hello
