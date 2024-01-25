@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 # comment goes here.
-ls /root/checker_repo
+ls /root/checker_files/.idea -la
+find /root -name *19903*
+ls /root/checker_files/2153
